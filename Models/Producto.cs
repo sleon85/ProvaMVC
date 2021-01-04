@@ -7,5 +7,9 @@ namespace ProvaMVC.Models
 {
     public class Producto
     {
+        int x;
+
+
+        public Producto() { }
     }
 }
